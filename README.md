@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gurubhajansingh
-- 👀 I’m interested in you, just kiddng 😜
-- 🌱 I’m currently learning Laravel planning to learn AngularJS or ReactJS
+- 🌱 I’m currently planning to learn Flutter
 - 💞️ I’m looking to collaborate on anythings, just tell me what it is.
 - 📫 How to reach me "https://gurubhajansingh.github.io/"
 
